@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1cce3b62d29d77440819aaa213693be3, type: 3}
+  m_Name: TimerGroundSO
+  m_EditorClassIdentifier: 
+  serializationData:
+    SerializedFormat: 2
+    SerializedBytes: 
+    ReferencedUnityObjects: []
+    SerializedBytesString: 
+    Prefab: {fileID: 0}
+    PrefabModificationsReferencedUnityObjects: []
+    PrefabModifications: []
+    SerializationNodes: []
+  grounds:
+  - {fileID: 1175485485487408861, guid: b91f79ad78e997149a7cd90ae54d2c70, type: 3}
+  - {fileID: 3785303576310491481, guid: c8494d6e4104ef54d948123059073396, type: 3}
+  - {fileID: 3124040107545250279, guid: 72627e7e51a0c1047bfeca375d409fd1, type: 3}
+  - {fileID: 4548525302248104931, guid: 7b0e279c442ad8b429b9e161a7968b49, type: 3}

@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d16c5c6e10c2235419bfaac5d36edaef, type: 3}
+  m_Name: LandSO
+  m_EditorClassIdentifier: 
+  serializationData:
+    SerializedFormat: 2
+    SerializedBytes: 
+    ReferencedUnityObjects: []
+    SerializedBytesString: 
+    Prefab: {fileID: 0}
+    PrefabModificationsReferencedUnityObjects: []
+    PrefabModifications: []
+    SerializationNodes: []
+  grounds:
+  - {fileID: 1175485485487408861, guid: 7390046b34bdd0d4e87849e98185b656, type: 3}
+  - {fileID: 3785303576310491481, guid: 44c6c53a3a20a064f808e51c25bd107c, type: 3}
+  - {fileID: 3124040107545250279, guid: bd103912570aa574faf6f8fe4161a7d0, type: 3}
+  - {fileID: 4548525302248104931, guid: 5aff8044e10614942af7c52e683c6257, type: 3}

@@ -1,0 +1,4 @@
+#Tue Jun 04 15:44:34 IST 2024
+base.0=D\:\\Unity\\2D Endless Runner Game\\Library\\Bee\\Android\\Prj\\Mono2x\\Gradle\\launcher\\build\\intermediates\\dex\\release\\mergeDexRelease\\classes.dex
+renamed.0=classes.dex
+path.0=classes.dex
